@@ -1,4 +1,7 @@
-### Hi there 👋
+### I am ARTHUR CAMPBELL
+#### I write code that is _buttery smooth_
+
+##### HIRE ME PLEASE
 
 <!--
 **arfacamble/arfacamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
