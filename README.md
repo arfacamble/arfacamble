@@ -1,13 +1,15 @@
 ## I am ARTHUR CAMPBELL
 ### I am job seeking now, get it while it's hot!
-
+***
 #### In the repos below you can see three rails projects from le wagon bootcamp
+##### Megalithipedia - https://great-stones.herokuapp.com/
+* my team's final project: Find megalithic sites, discuss ancient history, plan walks around stones with chums.
+* I have recently forked this repo to start adding certain features:
+    * testing: system tests on some user stories, and use of github actions and workflows to understand CI work structures.
 ##### Mister Cocktail - http://barturo-cocktails.herokuapp.com/cocktails
 a CRUD app
 ##### Rusty Amusements - http://rusty-amusements.herokuapp.com/
 an airbnb/marketplace clone
-##### Megalithipedia - https://www.megalithipedia.com/
-our final project: Find megalithic sites, discuss ancient history, plan walks around stones with chums.
 
 (Since these sites do not yet have a vibrant user base, please have patience if you would like to load them as heroku will have put them to sleep.)
 
