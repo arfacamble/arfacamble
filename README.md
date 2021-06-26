@@ -11,27 +11,13 @@
 ##### Rusty Amusements - http://rusty-amusements.herokuapp.com/
 * an airbnb/marketplace clone
 
-<sup>(Since these sites do not yet have a vibrant user base, please have patience if you would like to load them as heroku will have put them to sleep.)</sup>
+<sup>_Since these sites do not yet have a vibrant user base, please have patience if you would like to load them as heroku will have put them to sleep._</sup>
 
 #### Other repos of work since bootcamp completion
+##### Minesweeper-in-react - https://arfacamble.github.io/minesweeper-in-react/
+* The traditional logic game, coded in REACT
 ##### Learn-SQL
-polishing my skills, peruse my solutions if you wish
+* polishing my DB querying skills, in the repo you can find my solutions to the tasks, with accompanying comments.
 ##### API Depreciation Backend - https://tray-dashboard-aatd-app.herokuapp.com
-Hackathon task to make a dashboard for a middleware company to track all the APIs they have integrated and any upcoming updates or depreciations.
-I lead on the Rails API backend while @damonspencerroberts lead on react frontend
-##### TDD-change-case
-A short exercise on uni testing with TDD practices
-<!--
-**arfacamble/arfacamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Hackathon task to make a dashboard for a middleware company to track all the APIs they have integrated and any upcoming updates or depreciations.
+   * I lead on the Rails API backend while @damonspencerroberts lead on react frontend
