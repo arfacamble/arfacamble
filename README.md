@@ -7,11 +7,11 @@
 * I have recently forked this repo to start adding certain features:
     * testing: system tests on some user stories, and use of github actions and workflows to understand CI work structures.
 ##### Mister Cocktail - http://barturo-cocktails.herokuapp.com/cocktails
-a CRUD app
+* a CRUD app
 ##### Rusty Amusements - http://rusty-amusements.herokuapp.com/
-an airbnb/marketplace clone
+* an airbnb/marketplace clone
 
-(Since these sites do not yet have a vibrant user base, please have patience if you would like to load them as heroku will have put them to sleep.)
+<sup>(Since these sites do not yet have a vibrant user base, please have patience if you would like to load them as heroku will have put them to sleep.)</sup>
 
 #### Other repos of work since bootcamp completion
 ##### Learn-SQL
