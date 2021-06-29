@@ -8,6 +8,7 @@
     * featuring: Complex DB schema // Geocoding // AJAX for clean UX // devise for authentication
 * I have recently forked this repo to start adding extra features for my professional development:
     * testing: system tests on some user stories, and use of github actions and workflows to understand CI work structures.
+    * websockets: live chat so that enthusiasts can chew the fat on their upcoming and past rambles.
 #### Mister Cocktail - http://barturo-cocktails.herokuapp.com/cocktails <img width='30' height='30' src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-256.png" />
 * a CRUD app
 #### Rusty Amusements - http://rusty-amusements.herokuapp.com/ <img width='30' height='30' src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-256.png" />
